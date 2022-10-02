@@ -86,6 +86,11 @@ strong {
     font-size: 80px;
 }
 
+footer {
+    color: rgba(0, 0, 0, 0.558);
+    margin: 10px;
+}
+
 .units {
     font-size: 50px;
 }
@@ -150,4 +155,12 @@ strong {
 
 #todayDate {
     font-size: 30px;
+}
+#github {
+    color: rgba(0, 0, 255, 0.7);
+}
+
+#github:hover {
+    color: rgba(13, 237, 162, 0.5);
+    cursor: pointer;
 }
